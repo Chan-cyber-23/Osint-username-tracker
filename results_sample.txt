@@ -1,0 +1,4 @@
+[+] Username found on GitHub: https://github.com/nabbiejeon
+[-] Not found on Reddit
+[+] Username found on Instagram: https://www.instagram.com/nabbiejeon/
+[-] Not found on Twitter
